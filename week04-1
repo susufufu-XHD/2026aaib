@@ -1,5 +1,5 @@
-//week04-1 ¦nª±ªºµ{¦¡³]­p «Ü¦hfor
-//File-Preference §ï¦r«¬¤j¤p
+//week04-1 å¥½ç©çš„ç¨‹å¼è¨­è¨ˆ å¾ˆå¤šfor
+//File-Preference æ”¹å­—å‹å¤§å°
 size(600,400);
 for(int y = 0; y < 400; y += 50){
   for(int x = 0; x < 600; x += 50){
